@@ -1,2 +1,2 @@
 # KEpyCourse
-Finnished exercises for UU python course 2024
+Finished exercises for UU python course 2024
